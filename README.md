@@ -47,5 +47,3 @@ Larger projects, labs, and security environments are maintained separately on my
 
 These tools are intended for educational use and authorized security testing only.
 
-```
-```
